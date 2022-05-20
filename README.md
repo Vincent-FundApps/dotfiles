@@ -1,4 +1,4 @@
-# egnwd does dotfiles
+# Vincent does dotfiles
 
 These are my dotfiles, the repo is based off [Holman's dotfiles](https://github.com/holman/dotfiles).
 
