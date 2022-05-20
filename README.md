@@ -1,4 +1,4 @@
-# egnwd does dotfiles
+# Vincent does dotfiles
 
 These are my dotfiles, the repo is based off [Holman's dotfiles](https://github.com/holman/dotfiles).
 
@@ -41,7 +41,7 @@ There's a few special files in the hierarchy.
 Run this:
 
 ```sh
-git clone https://github.com/egnwd/dotfiles.git ~/.dotfiles
+git clone https://github.com/vincent-fundapps/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
